@@ -1,0 +1,10 @@
+xarray
+zarr
+dask
+lightning
+matplotlib
+wandb
+cftime
+einops
+vizarr
+jupyter
