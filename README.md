@@ -1,7 +1,7 @@
 # EnsembleVisionWeatherPredictor
 Vision Transformer Based Neural Network Weather Prediction Model
 
-We developed models on our own in self-contained jupyer notebooks. Ideally we would've turned them into python files (utils, models, etc) with a requirements.txt for a conda env, 
+We developed models on our own in self-contained jupyer notebooks. Ideally we would've turned them into python files (utils, models, etc), 
 but datahub and AWS made everything difficult and we opted for the path of least resistance. Additionaly, the repo wasn't really utilized in development as everyone solo-developed on
 models in different files, so files were only pushed when other team members needed access.
 
